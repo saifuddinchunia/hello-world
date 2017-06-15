@@ -1,2 +1,2 @@
 # hello-world
-Editing the file for a new commit
+Editing the file from machine
